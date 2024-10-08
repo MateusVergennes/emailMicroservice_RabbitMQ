@@ -2,9 +2,10 @@
 
 This microservice is responsible for sending welcome emails to users who register through the User Registration Microservice. It utilizes RabbitMQ to receive messages and Gmail's SMTP for sending emails. 
 
-![1](https://github.com/user-attachments/assets/1491e0d5-d4d4-4df8-b605-bb7daacfe1a7)
-![2](https://github.com/user-attachments/assets/f83edd8a-cf5d-467a-a59b-df2925011497)
-![3](https://github.com/user-attachments/assets/e2ec85f2-dd82-48fb-972c-f3fc6eb2fd13)
+![1](https://github.com/user-attachments/assets/998973d0-18af-49cf-ad4f-2a21914ffe4b)
+![2](https://github.com/user-attachments/assets/0f110247-4ec8-46e3-b28b-48c4107a95f5)
+![3](https://github.com/user-attachments/assets/5bade3a4-b282-421b-8b43-44f286fa6ed4)
+
 
 ## 🚀 Technologies
 
